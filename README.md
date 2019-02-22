@@ -1,2 +1,2 @@
 # ChurchScheduler
-Desktop app to schedule roles for church
+Electron app to help scheduling at church
