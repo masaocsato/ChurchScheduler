@@ -1,0 +1,22 @@
+{
+  "name": "churchscheduler",
+  "version": "1.0.0",
+  "description": "app to help schedule people for different roles for sunday church",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masaocsato/ChurchScheduler.git"
+  },
+  "author": "Masa Sato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/masaocsato/ChurchScheduler/issues"
+  },
+  "homepage": "https://github.com/masaocsato/ChurchScheduler#readme",
+  "dependencies": {
+    "electron": "^4.0.5"
+  }
+}
